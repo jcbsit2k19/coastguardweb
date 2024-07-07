@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coastguardweb/static/css/main.2962f4b6.css",
-    "main.js": "/coastguardweb/static/js/main.0b5d4ae5.js",
+    "main.css": "/coastguardweb/static/css/main.88a81c2b.css",
+    "main.js": "/coastguardweb/static/js/main.29f98bc6.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/coastguardweb/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "index.html": "/coastguardweb/index.html",
-    "main.2962f4b6.css.map": "/coastguardweb/static/css/main.2962f4b6.css.map",
-    "main.0b5d4ae5.js.map": "/coastguardweb/static/js/main.0b5d4ae5.js.map"
+    "main.88a81c2b.css.map": "/coastguardweb/static/css/main.88a81c2b.css.map",
+    "main.29f98bc6.js.map": "/coastguardweb/static/js/main.29f98bc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2962f4b6.css",
-    "static/js/main.0b5d4ae5.js"
+    "static/css/main.88a81c2b.css",
+    "static/js/main.29f98bc6.js"
   ]
 }
